@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="wangcai-shop-api-member" />
+        <module name="wangcai-shop-common" />
+        <module name="wangcai-shop-eurekaServer" />
+        <module name="wangcai-shop-member" />
+        <module name="wangcai-shop-message" />
+        <module name="wangcai-shop-pc-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="wangcai-shop-api" target="1.8" />
+      <module name="wangcai-shop-api-member" target="1.8" />
+      <module name="wangcai-shop-common" target="1.8" />
+      <module name="wangcai-shop-eurekaServer" target="1.8" />
+      <module name="wangcai-shop-member" target="1.8" />
+      <module name="wangcai-shop-message" target="1.8" />
+      <module name="wangcai-shop-parent" target="1.8" />
+      <module name="wangcai-shop-pc-web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

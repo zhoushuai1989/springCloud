@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/wangcai-shop-api/wangcai-shop-api.iml" filepath="$PROJECT_DIR$/wangcai-shop-api/wangcai-shop-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wangcai-shop-api/wangcai-shop-api-member/wangcai-shop-api-member.iml" filepath="$PROJECT_DIR$/wangcai-shop-api/wangcai-shop-api-member/wangcai-shop-api-member.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wangcai-shop-common/wangcai-shop-common.iml" filepath="$PROJECT_DIR$/wangcai-shop-common/wangcai-shop-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wangcai-shop-eurekaServer/wangcai-shop-eurekaServer.iml" filepath="$PROJECT_DIR$/wangcai-shop-eurekaServer/wangcai-shop-eurekaServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wangcai-shop-member/wangcai-shop-member.iml" filepath="$PROJECT_DIR$/wangcai-shop-member/wangcai-shop-member.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wangcai-shop-message/wangcai-shop-message.iml" filepath="$PROJECT_DIR$/wangcai-shop-message/wangcai-shop-message.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wangcai-shop-parent.iml" filepath="$PROJECT_DIR$/wangcai-shop-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wangcai-shop-pc-web/wangcai-shop-pc-web.iml" filepath="$PROJECT_DIR$/wangcai-shop-pc-web/wangcai-shop-pc-web.iml" />
+    </modules>
+  </component>
+</project>
